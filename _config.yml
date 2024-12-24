@@ -1,5 +1,5 @@
 title: Awesome Jekyll Site
 description: This is a sample Jekyll site deployed using GitHub Pages and GitHub Actions.
-baseurl: ""
-url: "https://<your-github-username>.github.io/awesome-jekyll-site"
+baseurl: "" # Leave this blank if deploying to the root of the repository
+url: "https://Egbuka.github.io/awesome-jekyll-site"
 theme: minima
