@@ -23,6 +23,6 @@ This site demonstrates how to:
 - [Learn Jekyll](https://jekyllrb.com/)
 
 ### Screenshot
-![Screenshot](assets/sample.png) <!-- Add a valid image path -->
+![Screenshot](assets/sample.png.jpg) <!-- Add a valid image path -->
 
 Enjoy exploring and building your own site!
